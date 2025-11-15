@@ -10,3 +10,4 @@ python-dotenv
 requests
 python-json-logger
 psycopg
+psycopg_pool
