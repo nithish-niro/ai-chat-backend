@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+langchain
+langchain-openai
+openai
+python-dotenv
+requests
+python-json-logger
+
