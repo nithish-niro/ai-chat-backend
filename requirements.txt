@@ -9,4 +9,4 @@ openai
 python-dotenv
 requests
 python-json-logger
-
+psycopg
